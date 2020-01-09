@@ -18,9 +18,9 @@ img {
 
 .icon {
   fill: currentColor;
-  display: inline-block;
-  font-size: inherit;
-  height: 1em;
+  display: inline-flex;
+  font-size: bold;
+  height: 2em;
   overflow: visible;
 }
 
@@ -56,6 +56,7 @@ section:last-child {
 .section-title {
   font-weight: bold;
   font-size: 18px;
+  color: blue;
 }
 
 /***********************************
